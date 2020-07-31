@@ -1,5 +1,5 @@
-Financial Analysis
-------------------
+PyBank Financial Analysis
+-------------------------
 Total Months : 86
 Total Revenue : $ 38382578
 Average Change in Profits each month : $ -2315
